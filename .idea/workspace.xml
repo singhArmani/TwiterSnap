@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32da71a5-8045-4e93-8bc6-e8f1c8ec3009" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/CollectionControls.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/TweetList.react.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Application.react.js" afterPath="$PROJECT_DIR$/src/components/Application.react.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Collection.react.js" afterPath="$PROJECT_DIR$/src/components/Collection.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CollectionControls.react.js" afterPath="$PROJECT_DIR$/src/components/CollectionControls.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Stream.react.js" afterPath="$PROJECT_DIR$/src/components/Stream.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Tweet.react.js" afterPath="$PROJECT_DIR$/src/components/Tweet.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TweetList.react.js" afterPath="$PROJECT_DIR$/src/components/TweetList.react.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,8 +37,8 @@
       <file leaf-file-name="Stream.react.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Stream.react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="37" column="29" lean-forward="false" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+            <state relative-caret-position="357">
+              <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#41#66#0" expanded="true" />
@@ -47,12 +50,13 @@
       <file leaf-file-name="Tweet.react.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Tweet.react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+            <state relative-caret-position="310">
+              <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#478#644#0" expanded="false" />
-                <element signature="e#671#798#0" expanded="false" />
+                <element signature="e#555#721#0" expanded="false" />
+                <element signature="e#748#875#0" expanded="false" />
+                <element signature="e#1303#1576#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -70,24 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.react.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Application.react.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#41#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StreamTweet.react.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/StreamTweet.react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+            <state relative-caret-position="1344">
+              <caret line="94" column="32" lean-forward="false" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="32" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#41#67#0" expanded="true" />
@@ -95,22 +86,20 @@
                 <element signature="e#813#1130#0" expanded="false" />
                 <element signature="e#1968#2078#0" expanded="false" />
                 <element signature="e#2124#2196#0" expanded="false" />
+                <element signature="e#2241#2366#0" expanded="false" />
+                <element signature="e#2395#2485#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Collection.react.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Collection.react.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Collection.react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="751">
+              <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
               <folding>
-                <element signature="e#41#75#0" expanded="true" />
-                <element signature="e#657#857#0" expanded="false" />
-                <element signature="e#882#936#0" expanded="false" />
-                <element signature="e#973#1028#0" expanded="false" />
-                <marker date="1483630019315" expanded="false" signature="1133:1925" ph="{...}" />
+                <element signature="e#41#67#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,19 +108,47 @@
       <file leaf-file-name="CollectionControls.react.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/CollectionControls.react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="168">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TweetList.react.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TweetList.react.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/TweetList.react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="58">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#41#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.react.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Application.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#41#66#0" expanded="true" />
+                <element signature="e#601#856#0" expanded="false" />
+                <element signature="e#892#1058#0" expanded="false" />
+                <element signature="e#1094#1167#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,16 +176,17 @@
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/App.test.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Application.react.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Header.react.js" />
-        <option value="$PROJECT_DIR$/src/components/Stream.react.js" />
-        <option value="$PROJECT_DIR$/src/components/Tweet.react.js" />
         <option value="$PROJECT_DIR$/src/components/StreamTweet.react.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/components/CollectionControls.react.js" />
         <option value="$PROJECT_DIR$/src/components/TweetList.js" />
+        <option value="$PROJECT_DIR$/src/components/Tweet.react.js" />
+        <option value="$PROJECT_DIR$/src/components/Stream.react.js" />
+        <option value="$PROJECT_DIR$/src/components/CollectionControls.react.js" />
+        <option value="$PROJECT_DIR$/src/components/Application.react.js" />
         <option value="$PROJECT_DIR$/src/components/Collection.react.js" />
+        <option value="$PROJECT_DIR$/src/components/TweetList.react.js" />
       </list>
     </option>
   </component>
@@ -182,8 +200,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="655" />
-    <option name="width" value="1265" />
+    <option name="x" value="716" />
+    <option name="width" value="1204" />
     <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -244,20 +262,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TwiterSnap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TwiterSnap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -696,12 +700,12 @@
       <updated>1483369217927</updated>
       <workItem from="1483369223347" duration="11130000" />
       <workItem from="1483514423023" duration="19906000" />
-      <workItem from="1483627094585" duration="3534000" />
+      <workItem from="1483627094585" duration="15795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34570000" />
+    <option name="totallyTimeSpent" value="46831000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -713,8 +717,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="655" y="0" width="1265" height="1032" extended-state="0" />
-    <editor active="false" />
+    <frame x="716" y="0" width="1204" height="1032" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -727,10 +731,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24280782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24280782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18574513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3076241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -828,8 +832,9 @@
           <caret line="53" column="19" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#478#644#0" expanded="false" />
-            <element signature="e#671#798#0" expanded="false" />
+            <element signature="e#555#721#0" expanded="false" />
+            <element signature="e#748#875#0" expanded="false" />
+            <element signature="e#1303#1576#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -851,6 +856,9 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#41#66#0" expanded="true" />
+            <element signature="e#601#856#0" expanded="false" />
+            <element signature="e#892#1058#0" expanded="false" />
+            <element signature="e#1094#1167#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -866,6 +874,8 @@
             <element signature="e#813#1130#0" expanded="false" />
             <element signature="e#1968#2078#0" expanded="false" />
             <element signature="e#2124#2196#0" expanded="false" />
+            <element signature="e#2241#2366#0" expanded="false" />
+            <element signature="e#2395#2485#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -875,11 +885,7 @@
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="e#41#75#0" expanded="true" />
-            <element signature="e#657#857#0" expanded="false" />
-            <element signature="e#882#936#0" expanded="false" />
-            <element signature="e#973#1028#0" expanded="false" />
-            <marker date="1483630019315" expanded="false" signature="1133:1925" ph="{...}" />
+            <element signature="e#41#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -899,6 +905,9 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#41#66#0" expanded="true" />
+            <element signature="e#601#856#0" expanded="false" />
+            <element signature="e#892#1058#0" expanded="false" />
+            <element signature="e#1094#1167#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -949,6 +958,8 @@
             <element signature="e#813#1130#0" expanded="false" />
             <element signature="e#1968#2078#0" expanded="false" />
             <element signature="e#2124#2196#0" expanded="false" />
+            <element signature="e#2241#2366#0" expanded="false" />
+            <element signature="e#2395#2485#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -959,20 +970,14 @@
           <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#478#644#0" expanded="false" />
-            <element signature="e#671#798#0" expanded="false" />
+            <element signature="e#555#721#0" expanded="false" />
+            <element signature="e#748#875#0" expanded="false" />
+            <element signature="e#1303#1576#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App.js" />
-    <entry file="file://$PROJECT_DIR$/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/logo.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -992,6 +997,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1055,61 +1063,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Stream.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="37" column="29" lean-forward="false" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#41#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Tweet.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#478#644#0" expanded="false" />
-            <element signature="e#671#798#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Header.react.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding>
             <element signature="e#41#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Application.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#41#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/StreamTweet.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#41#67#0" expanded="true" />
-            <element signature="e#447#788#0" expanded="false" />
-            <element signature="e#813#1130#0" expanded="false" />
-            <element signature="e#1968#2078#0" expanded="false" />
-            <element signature="e#2124#2196#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1122,32 +1081,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Stream.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#41#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/StreamTweet.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="94" column="32" lean-forward="false" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#41#67#0" expanded="true" />
+            <element signature="e#447#788#0" expanded="false" />
+            <element signature="e#813#1130#0" expanded="false" />
+            <element signature="e#1968#2078#0" expanded="false" />
+            <element signature="e#2124#2196#0" expanded="false" />
+            <element signature="e#2241#2366#0" expanded="false" />
+            <element signature="e#2395#2485#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Application.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#41#66#0" expanded="true" />
+            <element signature="e#601#856#0" expanded="false" />
+            <element signature="e#892#1058#0" expanded="false" />
+            <element signature="e#1094#1167#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CollectionControls.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TweetList.react.js">
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Collection.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="751">
+          <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
           <folding>
-            <element signature="e#41#75#0" expanded="true" />
-            <element signature="e#657#857#0" expanded="false" />
-            <element signature="e#882#936#0" expanded="false" />
-            <element signature="e#973#1028#0" expanded="false" />
-            <marker date="1483630019315" expanded="false" signature="1133:1925" ph="{...}" />
+            <element signature="e#41#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Tweet.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#555#721#0" expanded="false" />
+            <element signature="e#748#875#0" expanded="false" />
+            <element signature="e#1303#1576#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TweetList.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#41#81#0" expanded="true" />
           </folding>
         </state>
       </provider>

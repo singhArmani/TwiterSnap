@@ -35,7 +35,8 @@ export default class Stream extends React.Component{
          console.log('Stream render()...')
         if(this.state.tweet){
             return (
-                <StreamTweet  tweet={this.state.tweet} onAddTweetToCollection={this.props.onAddTweetToCollection}/>
+                <StreamTweet  tweet={this.state.tweet}
+                              onAddTweetToCollection={this.props.onAddTweetToCollection}/>
             );
         }
         return (

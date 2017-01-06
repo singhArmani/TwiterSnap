@@ -6,16 +6,18 @@ import Stream from './Stream.react';
 import Collection from './Collection.react'
 import '../App.css';
 
-export default class Application React.Component{
+export default class Application extends React.Component{
     constructor(props){
         super(props)
         this.state={collectionTweets:{}}
-\\\\\        this.addTweetToCollection = this.addTweetToCollection.bind(this);
+        this.addTweetToCollection = this.addTweetToCollection.bind(this);
         this.removeTweetFromCollection = this.removeTweetFromCollection.bind(this);
         this.removeAllTweetsFromCollection = this.removeAllTweetsFromCollection.bind(this);
     }
 
    addTweetToCollection(tweet){
+        console.log("Image has been clicked!!"+tweet.length);
+
         let collectionTweets = this.state.collectionTweets
 
        collectionTweets[tweet.id] = tweet;
@@ -39,6 +41,7 @@ export default class Application React.Component{
    }
 
     render(){
+
         return (
             <div className="container-fluid">
                 <div className="row">

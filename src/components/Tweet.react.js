@@ -17,6 +17,7 @@ import React, { Component } from 'react';
          let onImageClick = this.props.onImageClick;
 
          if(onImageClick){
+             if(tweet) console.log("tweet is present"+JSON.stringify(tweet))
              onImageClick(tweet)
          }
      }
