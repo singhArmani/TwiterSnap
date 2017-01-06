@@ -43,22 +43,20 @@ export default class Application extends React.Component{
     render(){
 
         return (
+
             <div className="container-fluid">
-                <div className="row">
-                    <div className="col-md-4 text-center">
+                 <div className="row">
+                     <div className="col-md-4 text-center">
+                        <Stream style={{alignSelf:'center'}} onAddTweetToCollection={this.addTweetToCollection}/>
+                     </div>
 
-                        {/*rendering Stream component and af passing data as props*/}
-                        <Stream onAddTweetToCollection={this.addTweetToCollection}/>
-                    </div>
-
-                    <div className="col-md-8">
-                        {/*rendering Collection component and passing data as props*/}
-                        <Collection tweets={this.state.collectionTweets}
-                                    onRemoveTweetFromCollection={this.removeTweetFromCollection}
-                                    onRemoveAllTweetsFromCollection={this.removeAllTweetsFromCollection}
-                        />
-                    </div>
-                </div>
+                     <div>
+                    <Collection style={{alignSelf:'center'}} tweets={this.state.collectionTweets}
+                    onRemoveTweetFromCollection={this.removeTweetFromCollection}
+                    onRemoveAllTweetsFromCollection={this.removeAllTweetsFromCollection}
+                    />
+                     </div>
+                 </div>
             </div>
         )
     }

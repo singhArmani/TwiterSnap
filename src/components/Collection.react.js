@@ -19,7 +19,7 @@ export default class Collection extends React.Component{
 
     createHtmlMarkupStringOfTweetList(){
 
-        let htmlString = ReactDOMServer.renderToStaticMarkup(<TweetList tweets ={this.props.tweets}/>)
+        let htmlString = ReactDOMServer.renderToStaticMarkup(<TweetList tweets={this.props.tweets}/>)
 
         let htmlMarkup = {html:htmlString};
 
@@ -49,14 +49,14 @@ export default class Collection extends React.Component{
 
             return(<div>
 
-                    {/*<CollectionControls*/}
-                        {/*numberOfTweetsInCollection= {this.getNumberOfTweetsInCollection()}*/}
-                        {/*htmlMarkup = {htmlMarkup}*/}
-                        {/*onRemoveAllTweetsFromCollection={removeAllTweetsFromCollection}/>*/}
+                    <CollectionControls
+                        numberOfTweetsInCollection={this.getNumberOfTweetsInCollection()}
+                        htmlMarkup={htmlMarkup}
+                        onRemoveAllTweetsFromCollection={removeAllTweetsFromCollection}/>
 
                     <TweetList
                         tweets={tweets}
-                        onRemoveTweetFromCollection= {handleRemoveTweetFromCollection}/>
+                        onRemoveTweetFromCollection={handleRemoveTweetFromCollection}/>
             </div>);
 
         }
