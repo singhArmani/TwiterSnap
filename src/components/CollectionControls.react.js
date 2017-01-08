@@ -22,7 +22,7 @@ export default class CollectionControls extends React.Component{
 
     getHeaderText(){
         debugger
-        let numberOfTweetInCollection = this.props.NumberOfTweetsInCollection
+        let numberOfTweetInCollection = this.props.numberOfTweetsInCollection
         let text;
         if(numberOfTweetInCollection ===1){
            text = numberOfTweetInCollection + ' tweet in your'
